@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reuse-ay
 - 👀 I’m interested in web.
-- 🌱 I’m currently learning frontend stacks and Angular.
+- 🌱 I’m currently learning Java and OS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he
